@@ -1,4 +1,4 @@
-# 🧠 Task Tracker with Smart Insights (FastAPI Backend)
+#  Task Tracker with Smart Insights (FastAPI Backend)
 
 A mini full-stack project backend built using **FastAPI** that allows users to:
 - Create, update, and manage tasks.
@@ -11,14 +11,14 @@ This backend is part of the **“Task Tracker with Smart Insights”** full-stac
 
 ## 🚀 Features
 
-- ✅ Create, view, and update tasks
-- ✅ Filter tasks by status or priority
-- ✅ Generate smart insights (summary analytics)
-- ✅ RESTful API design
-- ✅ Modular structure with FastAPI routers
-- ✅ SQLite or PostgreSQL supported
+- Create, view, and update tasks
+- Filter tasks by status or priority
+- Generate smart insights 
+- RESTful API design
+- Modular structure with FastAPI routers
+- SQLite or PostgreSQL supported
 
 ---
 
-## 🧱 Folder Structure
+
 
