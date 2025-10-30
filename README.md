@@ -9,7 +9,7 @@ This backend is part of the **“Task Tracker with Smart Insights”** full-stac
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create, view, and update tasks
 - Filter tasks by status or priority
@@ -19,6 +19,7 @@ This backend is part of the **“Task Tracker with Smart Insights”** full-stac
 - SQLite or PostgreSQL supported
 
 ---
+
 
 
 
